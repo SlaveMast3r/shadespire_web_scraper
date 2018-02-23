@@ -1,0 +1,2538 @@
+[
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/001_ENG-A-Worthy-Skull.png",
+        "location": "Core Set",
+        "name": "A Worthy Skull",
+        "number": "001",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/002_ENG-Blood-for-the-Blood-God.png",
+        "location": "Core Set",
+        "name": "Blood for the Blood God!",
+        "number": "002",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/003_ENG-Coward.png",
+        "location": "Core Set",
+        "name": "Coward!",
+        "number": "003",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/004_ENG-Draw-the-Gaze-of-Khorne.png",
+        "location": "Core Set",
+        "name": "Draw the Gaze of Khorne",
+        "number": "004",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/005_ENG-It-Begins.png",
+        "location": "Core Set",
+        "name": "It Begins",
+        "number": "005",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/006_ENG-Khorne-Cares-Not.png",
+        "location": "Core Set",
+        "name": "Khorne Cares Not",
+        "number": "006",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/007_ENG-Khornes-Champion.png",
+        "location": "Core Set",
+        "name": "Khorne's Champion",
+        "number": "007",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/008_ENG-Let-the-Blood-Flow.png",
+        "location": "Core Set",
+        "name": "Let the Blood Flow",
+        "number": "008",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/009_ENG-There-is-Only-Slaughter.png",
+        "location": "Core Set",
+        "name": "There is Only Slaughter",
+        "number": "009",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/010-ENG-Blood-Offering.png",
+        "location": "Core Set",
+        "name": "Blood Offering",
+        "number": "010",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/011_ENG-Blood-Rain.png",
+        "location": "Core Set",
+        "name": "Blood Rain",
+        "number": "011",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/012_ENG-Boon-of-Khorne.png",
+        "location": "Core Set",
+        "name": "Boon of Khorne",
+        "number": "012",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/013_ENG-Desecrate.png",
+        "location": "Core Set",
+        "name": "Desecrate",
+        "number": "013",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/014_ENG-Final-Blow.png",
+        "location": "Core Set",
+        "name": "Final Blow",
+        "number": "014",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/015_ENG-Fuelled-by-Slaughter.png",
+        "location": "Core Set",
+        "name": "Fuelled by Slaughter",
+        "number": "015",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/016_ENG-Insensate.png",
+        "location": "Core Set",
+        "name": "Insensate",
+        "number": "016",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/017_ENG-Khorne-Calls.png",
+        "location": "Core Set",
+        "name": "Khorne Calls",
+        "number": "017",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/018_ENG-Rebirth-in-Blood.png",
+        "location": "Core Set",
+        "name": "Rebirth in Blood",
+        "number": "018",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/019_ENG-Skulls-for-the-Skull-Throne.png",
+        "location": "Core Set",
+        "name": "Skulls for the Skull Throne!",
+        "number": "019",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/020_ENG-Berserk-Charge.png",
+        "location": "Core Set",
+        "name": "Berserk Charge",
+        "number": "020",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/021_ENG-Bloodslick.png",
+        "location": "Core Set",
+        "name": "Bloodslick",
+        "number": "021",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/022_ENG-Deadly-Spin.png",
+        "location": "Core Set",
+        "name": "Deadly Spin",
+        "number": "022",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/023_ENG-Ever-Advancing.png",
+        "location": "Core Set",
+        "name": "Ever-Advancing",
+        "number": "023",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/024_ENG-Frenzy.png",
+        "location": "Core Set",
+        "name": "Frenzy",
+        "number": "024",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/025_ENG-Grisly-Trophy.png",
+        "location": "Core Set",
+        "name": "Grisly Trophy",
+        "number": "025",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/026_ENG-Terrifying-Howl.png",
+        "location": "Core Set",
+        "name": "Terrifying Howl",
+        "number": "026",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/027_ENG-Unstoppable-Charge.png",
+        "location": "Core Set",
+        "name": "Unstoppable Charge",
+        "number": "027",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/028_ENG-Whirlwind-of-Death.png",
+        "location": "Core Set",
+        "name": "Whirlwind of Death",
+        "number": "028",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/029_ENG-Wicked-Blade.png",
+        "location": "Core Set",
+        "name": "Wicked Blade",
+        "number": "029",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/030_ENG-Awe-inspiring.png",
+        "location": "Core Set",
+        "name": "Awe-inspiring",
+        "number": "030",
+        "type": "Objective"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/031_ENG-Cleanse.png",
+        "location": "Core Set",
+        "name": "Cleanse",
+        "number": "031",
+        "type": "Objective"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/032_ENG-Consecrated-Area.png",
+        "location": "Core Set",
+        "name": "Consecrated Area",
+        "number": "032",
+        "type": "Objective"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/033_ENG-Eternals.png",
+        "location": "Core Set",
+        "name": "Eternals",
+        "number": "033",
+        "type": "Objective"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/034_ENG-Immovable-Object.png",
+        "location": "Core Set",
+        "name": "Immovable Object",
+        "number": "034",
+        "type": "Objective"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/035_ENG-Lightning-Strikes.png",
+        "location": "Core Set",
+        "name": "Lightning Strikes",
+        "number": "035",
+        "type": "Objective"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/036_ENG-Seize-Ground.png",
+        "location": "Core Set",
+        "name": "Seize Ground",
+        "number": "036",
+        "type": "Objective"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/037_ENG-Sigmars-Bulwark.png",
+        "location": "Core Set",
+        "name": "Sigmar's Bulwark",
+        "number": "037",
+        "type": "Objective"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/038_ENG-Slayers-of-Tyrants.png",
+        "location": "Core Set",
+        "name": "Slayers of Tyrants",
+        "number": "038",
+        "type": "Objective"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/039_ENG-Heroic-Guard.png",
+        "location": "Core Set",
+        "name": "Heroic Guard",
+        "number": "039",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/040_ENG-Peal-of-Thunder.png",
+        "location": "Core Set",
+        "name": "Peal of Thunder",
+        "number": "040",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/041_ENG-Righteous-Zeal.png",
+        "location": "Core Set",
+        "name": "Righteous Zeal",
+        "number": "041",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/042_ENG-Sigmarite-Wall.png",
+        "location": "Core Set",
+        "name": "Sigmarite Wall",
+        "number": "042",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/043_ENG-Stormforged-Resistance.png",
+        "location": "Core Set",
+        "name": "Stormforged Resistance",
+        "number": "043",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/044_ENG-Stormforged-Tactics.png",
+        "location": "Core Set",
+        "name": "Stormforged Tactics",
+        "number": "044",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/045_ENG-Tireless-Assault.png",
+        "location": "Core Set",
+        "name": "Tireless Assault",
+        "number": "045",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/046_ENG-Undaunted.png",
+        "location": "Core Set",
+        "name": "Undaunted",
+        "number": "046",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/047_ENG-Unstoppable-Strike.png",
+        "location": "Core Set",
+        "name": "Unstoppable Strike",
+        "number": "047",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/048_ENG-Valiant-Attack.png",
+        "location": "Core Set",
+        "name": "Valiant Attack",
+        "number": "048",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/049_ENG-Blessed-by-Sigmar.png",
+        "location": "Core Set",
+        "name": "Blessed by Sigmar",
+        "number": "049",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/050_ENG-Block.png",
+        "location": "Core Set",
+        "name": "Block",
+        "number": "050",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/051_ENG-Brave-Strike.png",
+        "location": "Core Set",
+        "name": "Brave Strike",
+        "number": "051",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/052_ENG-Fatal-Riposte.png",
+        "location": "Core Set",
+        "name": "Fatal Riposte",
+        "number": "052",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/053_ENG-Heroic-Might.png",
+        "location": "Core Set",
+        "name": "Heroic Might",
+        "number": "053",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/054_ENG-Heroic-Stride.png",
+        "location": "Core Set",
+        "name": "Heroic Stride",
+        "number": "054",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/055_ENG-Lightning-Blade.png",
+        "location": "Core Set",
+        "name": "Lightning Blade",
+        "number": "055",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/056_ENG-Lightning-Blast.png",
+        "location": "Core Set",
+        "name": "Lightning Blast",
+        "number": "056",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/057_ENG-Righteous-Strike.png",
+        "location": "Core Set",
+        "name": "Righteous Strike",
+        "number": "057",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/058_ENG-Shield-Bash.png",
+        "location": "Core Set",
+        "name": "Shield Bash",
+        "number": "058",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/059_ENG-Battle-Without-End.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Battle Without End",
+        "number": "059",
+        "type": "Objective"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/060_ENG-Claim-the-City.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Claim the City",
+        "number": "060",
+        "type": "Objective"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/061_ENG-Fearless-in-Death.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Fearless in Death",
+        "number": "061",
+        "type": "Objective"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/062_ENG-March-of-the-Dead.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "March of the Dead",
+        "number": "062",
+        "type": "Objective"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/063_ENG-More-Able-Bodies.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "More Able Bodies",
+        "number": "063",
+        "type": "Objective"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/064_ENG-Peerless-General.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Peerless General",
+        "number": "064",
+        "type": "Objective"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/065_ENG-Skills-Unforgotten.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Skills Unforgotten",
+        "number": "065",
+        "type": "Objective"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/066_ENG-The-Invigorated-Dead.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "The Invigorated Dead",
+        "number": "066",
+        "type": "Objective"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/067_ENG-Undead-Swarm.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Undead Swarm",
+        "number": "067",
+        "type": "Objective"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/068_ENG-Bone-Shrapnel.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Bone Shrapnel",
+        "number": "068",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/069_ENG-Ceaseless-Attacks.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Ceaseless Attacks",
+        "number": "069",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/070_ENG-Clawing-Hands.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Clawing Hands",
+        "number": "070",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/071_ENG-Danse-Macabre.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Danse Macabre",
+        "number": "071",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/072_ENG-Grasping-Hands.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Grasping Hands",
+        "number": "072",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/073_ENG-Restless-Dead.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Restless Dead",
+        "number": "073",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/074_ENG-Spectral-Form.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Spectral Form",
+        "number": "074",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/075_ENG-Swift-Evasion.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Swift Evasion",
+        "number": "075",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/076_ENG-Terrifying-Screams.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Terrifying Screams",
+        "number": "076",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/077_ENG-The-Necromancer-Commands.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "The Necromancer Commands",
+        "number": "077",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/078_ENG-Ancient-Commander.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Ancient Commander",
+        "number": "078",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/079_ENG-Assumed-Command.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Assumed Command",
+        "number": "079",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/080_ENG-Deathly-Charge.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Deathly Charge",
+        "number": "080",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/081_ENG-Fatal-Strike.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Fatal Strike",
+        "number": "081",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/082_ENG-Focused-Attack.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Focused Attack",
+        "number": "082",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/083_ENG-Frightening-Speed.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Frightening Speed",
+        "number": "083",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/084_ENG-Grim-Cleave.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Grim Cleave",
+        "number": "084",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/085_ENG-Lethal-Lunge.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Lethal Lunge",
+        "number": "085",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/086_ENG-Lethal-Lunge.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Remembered Shield",
+        "number": "086",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/087_ENG-Undying.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Undying",
+        "number": "087",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/088_ENG-’Ard-as-Iron.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "’Ard as Iron",
+        "number": "088",
+        "type": "Objective"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/089_ENG-Biggest-an-da-Best.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Biggest an' da Best",
+        "number": "089",
+        "type": "Objective"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/090_ENG-Call-of-the-Waaagh.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Call of the Waaagh!",
+        "number": "090",
+        "type": "Objective"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/091_ENG-Dead-Kunnin.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Dead Kunnin'",
+        "number": "091",
+        "type": "Objective"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/092_ENG-Deres-More-of-Us.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Dere's More of Us",
+        "number": "092",
+        "type": "Objective"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/093_ENG-Get-Da-Boss.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Get Da Boss",
+        "number": "093",
+        "type": "Objective"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/094_ENG-Good-Scrap.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Good Scrap",
+        "number": "094",
+        "type": "Objective"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/095_ENG-Punch-up.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Punch-up",
+        "number": "095",
+        "type": "Objective"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/096_ENG-Too-Dumb-to-Die.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Too Dumb to Die",
+        "number": "096",
+        "type": "Objective"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/097_ENG-’Avin’-a-Good-Time.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "’Avin’ a Good Time",
+        "number": "097",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/098_ENG-Brutal-But-Kunnin.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Brutal But Kunnin'",
+        "number": "098",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/099_ENG-Deafening-Bellow.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Deafening Bellow",
+        "number": "099",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/100_ENG-Gorkamorkas-Blessing.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Gorkamorka's Blessing",
+        "number": "100",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/101_ENG-Kunnin-But-Brutal.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Kunnin' But Brutal",
+        "number": "101",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/102_ENG-Last-Lunge.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Last Lunge",
+        "number": "102",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/103_ENG-Leadin-By-Example.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Leadin' By Example",
+        "number": "103",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/104_ENG-More-Choppin.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "More Choppin'",
+        "number": "104",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/105_ENG-Pillage.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Pillage",
+        "number": "105",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/106_ENG-Scrag-Em.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Scrag 'Em",
+        "number": "106",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/107_ENG-’Ard-Head.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "’Ard Head",
+        "number": "107",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/108_ENG-Aspiring-Boss.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Aspiring Boss",
+        "number": "108",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/109_ENG-Brutal-Frenzy.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Brutal Frenzy",
+        "number": "109",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/110_ENG-Brutal-Swing.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Brutal Swing",
+        "number": "110",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/111_ENG-Crush-and-Cleave.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Crush and Cleave",
+        "number": "111",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/112_ENG-Dead-Ard.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Dead 'Ard",
+        "number": "112",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/113_ENG-’Eadbutt.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "’Eadbutt",
+        "number": "113",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/114_ENG-Headlong-Rush.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Headlong Rush",
+        "number": "114",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/115_ENG-Unkillable.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Unkillable",
+        "number": "115",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/116_ENG-Waaagh.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Waaagh!",
+        "number": "116",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/117_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "A Claim Retaken",
+        "number": "117",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/118_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "A Grim Promise",
+        "number": "118",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/119_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Ferocious Charge",
+        "number": "119",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/120_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "For the Ur-gold",
+        "number": "120",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/121_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Fury of the Lodge",
+        "number": "121",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/122_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Hoarders",
+        "number": "122",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/123_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Oaths Still to Fulfil",
+        "number": "123",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/124_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Scion of Grimnir",
+        "number": "124",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/125_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Unstoppable Advance",
+        "number": "125",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/126_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Berserk Fury",
+        "number": "126",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/127_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Indomitable",
+        "number": "127",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/128_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Living Wall",
+        "number": "128",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/129_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Oathsworn",
+        "number": "129",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/130_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Piercing Stare",
+        "number": "130",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/131_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Slaying Blow",
+        "number": "131",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/132_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "The Earth Shakes",
+        "number": "132",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/133_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Treasure-lust",
+        "number": "133",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/134_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Ur-gold Boon",
+        "number": "134",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/135_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "We Shall Not Be Moved",
+        "number": "135",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/136_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Activated Runes",
+        "number": "136",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/137_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Brute Strength",
+        "number": "137",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/138_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Defiant Strike",
+        "number": "138",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/139_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Flurry of Blows",
+        "number": "139",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/140_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Great Swing",
+        "number": "140",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/141_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Grimnir's Blessing",
+        "number": "141",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/142_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Grimnir's Fortitude",
+        "number": "142",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/143_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Grimnir's Speed",
+        "number": "143",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/144_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Returning Axe",
+        "number": "144",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/145_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "War Song",
+        "number": "145",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/146_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Arm's Length",
+        "number": "146",
+        "type": "Objective"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/147_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Brilliant, Brilliant!",
+        "number": "147",
+        "type": "Objective"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/148_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Feast-feast",
+        "number": "148",
+        "type": "Objective"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/149_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Honed Survival Instincts",
+        "number": "149",
+        "type": "Objective"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/150_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Leading from the Back",
+        "number": "150",
+        "type": "Objective"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/151_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Live to Fight Another Day",
+        "number": "151",
+        "type": "Objective"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/152_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Lives are Cheap",
+        "number": "152",
+        "type": "Objective"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/153_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Numberless Swarm",
+        "number": "153",
+        "type": "Objective"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/154_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Skritch is the Greatest, Yes-yes",
+        "number": "154",
+        "type": "Objective"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/155_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Aversion to Death",
+        "number": "155",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/156_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Frenzied Stabbing",
+        "number": "156",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/157_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Heightened Caution",
+        "number": "157",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/158_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Momentary Boldness",
+        "number": "158",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/159_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Musk of Fear",
+        "number": "159",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/160_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Nervous Scrabbling",
+        "number": "160",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/161_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Scratching in the Shadows",
+        "number": "161",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/162_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Skaven Courage",
+        "number": "162",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/163_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Sudden Skittering",
+        "number": "163",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/164_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "There Are Always More",
+        "number": "164",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/165_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Black Hunger",
+        "number": "165",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/166_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Bodyguard for a Price",
+        "number": "166",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/167_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Expendable",
+        "number": "167",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/168_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Festering Blade",
+        "number": "168",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/169_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Flee!",
+        "number": "169",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/170_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Skitter-scurry",
+        "number": "170",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/171_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Sneaky Stab-stab",
+        "number": "171",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/172_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Swarm of Rats",
+        "number": "172",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/173_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Throwing Stars",
+        "number": "173",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/174_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Whirling Halberd",
+        "number": "174",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/235_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Alone in the Darkness",
+        "number": "235",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/236_ENG-Anihilation.png",
+        "location": "Core Set",
+        "name": "Annihilation",
+        "number": "236",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/237_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Assassinate",
+        "number": "237",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/239_ENG-Blooded.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Blooded",
+        "number": "239",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/240_ENG-Bloodless.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Bloodless",
+        "number": "240",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/241_ENG-Brawl.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Brawl",
+        "number": "241",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/242_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Butchery",
+        "number": "242",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/247_ENG-Conquest.png",
+        "location": "Core Set",
+        "name": "Conquest",
+        "number": "247",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/248_ENG-Contained.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Contained",
+        "number": "248",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/249_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Cover Ground",
+        "number": "249",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/250_ENG-Crushing-Force.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Crushing Force",
+        "number": "250",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/251_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Dauntless",
+        "number": "251",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/253_ENG-Denial.png",
+        "location": "Core Set",
+        "name": "Denial",
+        "number": "253",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/254_ENG-Determined-Defender.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Determined Defender",
+        "number": "254",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/255_ENG-Divide-and-Conquer.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Divide and Conquer",
+        "number": "255",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/256_ENG-Endless-Slaughter.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Endless Slaughter",
+        "number": "256",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/257_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Escalation",
+        "number": "257",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/259_ENG-Flawless-Strategy.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Flawless Strategy",
+        "number": "259",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/260_ENG-Geared-for-War.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Geared for War",
+        "number": "260",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/263_ENG-Hold-Objective-1.png",
+        "location": "Core Set",
+        "name": "Hold Objective 1",
+        "number": "263",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/264_ENG-Hold-Objective-2.png",
+        "location": "Core Set",
+        "name": "Hold Objective 2",
+        "number": "264",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/265_ENG-Hold-Objective-3.png",
+        "location": "Core Set",
+        "name": "Hold Objective 3",
+        "number": "265",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/266_ENG-Hold-Objective-4.png",
+        "location": "Core Set",
+        "name": "Hold Objective 4",
+        "number": "266",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/267_ENG-Hold-Objective-5.png",
+        "location": "Core Set",
+        "name": "Hold Objective 5",
+        "number": "267",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/268_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Honest Opponent",
+        "number": "268",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/270_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Making a Statement",
+        "number": "270",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/272_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Master of War",
+        "number": "272",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/274_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Miraculous Escape",
+        "number": "274",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/276_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "No More Tricks",
+        "number": "276",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/277_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "No Remorse",
+        "number": "277",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/279_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Overextended",
+        "number": "279",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/280_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Perfect Planning",
+        "number": "280",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/281_ENG-Plant-a-Standard.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Plant a Standard",
+        "number": "281",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/282_ENG-Ploymaster.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Ploymaster",
+        "number": "282",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/284_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Precise Use of Force",
+        "number": "284",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/286_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Ready for a Challenge",
+        "number": "286",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/287_ENG-Reaper.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Reaper",
+        "number": "287",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/288_ENG-Scent-of-Victory.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Scent of Victory",
+        "number": "288",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/290_ENG-Stymied.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Stymied",
+        "number": "290",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/291_ENG-Superior-Tactician.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Superior Tactician",
+        "number": "291",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/292_ENG-Supremacy.png",
+        "location": "Core Set",
+        "name": "Supremacy",
+        "number": "292",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/293_ENG-Swift-Advance.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Swift Advance",
+        "number": "293",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/294_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Tactical Genius 1-3",
+        "number": "294",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/295_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Tactical Genius 3-5",
+        "number": "295",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/296_ENG-Tactical-Supremacy-1-2.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Tactical Supremacy 1-2",
+        "number": "296",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/297_ENG-Tactical-Supremacy-3-4.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Tactical Supremacy 3-4",
+        "number": "297",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/298_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "The Bigger They Are",
+        "number": "298",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/299_ENG-The-Harvest-Begins.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "The Harvest Begins",
+        "number": "299",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/300_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Total Annihilation",
+        "number": "300",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/301_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Trapped",
+        "number": "301",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/302_ENG-Twilight-Conqueror.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Twilight Conqueror",
+        "number": "302",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/303_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Unbroken Wall",
+        "number": "303",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/305_ENG-Victorious-Duel.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Victorious Duel",
+        "number": "305",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/308_ENG-Anticipation.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Anticipation",
+        "number": "308",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/309_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Blinding Flash",
+        "number": "309",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/310_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Confused Priorities",
+        "number": "310",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/311_ENG-Confusion.png",
+        "location": "Core Set",
+        "name": "Confusion",
+        "number": "311",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/312_ENG-Cruel-Taunt.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Cruel Taunt",
+        "number": "312",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/313_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Curious Inversion",
+        "number": "313",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/314_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Darkness Descends",
+        "number": "314",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/315_ENG-Daylight-Robbery.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Daylight Robbery",
+        "number": "315",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/316_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Death Throes",
+        "number": "316",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/317_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Desperate Gambit",
+        "number": "317",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/318_ENG-Distraction.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Distraction",
+        "number": "318",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/319_ENG-Dual-Strike.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Dual Strike",
+        "number": "319",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/320_ENG-Duel-of-Wits.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Duel of Wits",
+        "number": "320",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/321_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Earthquake",
+        "number": "321",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/324_ENG-Forceful-Denial.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Forceful Denial",
+        "number": "324",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/325_ENG-Fortify.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Fortify",
+        "number": "325",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/327_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Fuelled by Fury",
+        "number": "327",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/330_ENG-Healing-Potion.png",
+        "location": "Core Set",
+        "name": "Healing Potion",
+        "number": "330",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/332_ENG-Illusory-Fighter.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Illusory Fighter",
+        "number": "332",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/336_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Last Chance",
+        "number": "336",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/337_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Legacy",
+        "number": "337",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/339_ENG-Mighty-Swing.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Mighty Swing",
+        "number": "339",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/341_ENG-Misdirection.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Misdirection",
+        "number": "341",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/342_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Momentary Madness",
+        "number": "342",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/344_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "No Time",
+        "number": "344",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/345_ENG-On-Your-Feet.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "On Your Feet",
+        "number": "345",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/346_ENG-Parry.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Parry",
+        "number": "346",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/348_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Ready for Action",
+        "number": "348",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/349_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Rebound",
+        "number": "349",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/351_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Rethink Strategy",
+        "number": "351",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/352_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Sacrificial Pawn",
+        "number": "352",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/353_ENG-Scavenge.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Scavenge",
+        "number": "353",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/355_ENG-Shardfall.png",
+        "location": "Core Set",
+        "name": "Shardfall",
+        "number": "355",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/357_ENG-Shattering-Terrain.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Shattering Terrain",
+        "number": "357",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/358_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Shattershard",
+        "number": "358",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/359_ENG-Shifting-Shards.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Shifting Shards",
+        "number": "359",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/360_ENG-Sidestep.png",
+        "location": "Core Set",
+        "name": "Sidestep",
+        "number": "360",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/362_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Spoils of Battle",
+        "number": "362",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/363_ENG-Sprint.png",
+        "location": "Core Set",
+        "name": "Sprint",
+        "number": "363",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/364_ENG-Stumble.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Stumble",
+        "number": "364",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/366_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Tantalising Prize",
+        "number": "366",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/368_ENG-Time-Trap.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Time Trap",
+        "number": "368",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/369_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Trap",
+        "number": "369",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/370_ENG-Triumphant-Roar.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Triumphant Roar",
+        "number": "370",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/371_ENG-Trust-to-Luck.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Trust to Luck",
+        "number": "371",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/374_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Acrobatic",
+        "number": "374",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/375_ENG-Army-of-One.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Army of One",
+        "number": "375",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/376_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Awakened Weapon",
+        "number": "376",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/377_ENG-Blessed-Armour.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Blessed Armour",
+        "number": "377",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/379_ENG-Coordinated-Attack.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Coordinated Attack",
+        "number": "379",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/380_ENG-Cunning-Duellist.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Cunning Duellist",
+        "number": "380",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/381_ENG-Cursed-Artefact.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Cursed Artefact",
+        "number": "381",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/382_ENG-Daemonic-Weapon.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Daemonic Weapon",
+        "number": "382",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/385_ENG-Disengage.png",
+        "location": "Core Set",
+        "name": "Disengage",
+        "number": "385",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/386_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Ethereal Shield",
+        "number": "386",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/387_ENG-Flickering-Image.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Flickering Image",
+        "number": "387",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/389_ENG-Great-Fortitude.png",
+        "location": "Core Set",
+        "name": "Great Fortitude",
+        "number": "389",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/390_ENG-Great-Speed.png",
+        "location": "Core Set",
+        "name": "Great Speed",
+        "number": "390",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/391_ENG-Great-Strength.png",
+        "location": "Core Set",
+        "name": "Great Strength",
+        "number": "391",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/392_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Headlong Charge",
+        "number": "392",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/393_ENG-Helpful-Whispers.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Helpful Whispers",
+        "number": "393",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/394_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Heroslayer",
+        "number": "394",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/396_ENG-Katophranes-Belt-Relic.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Katophrane's Belt [Relic]",
+        "number": "396",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/399_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Katophrane's Hood [Relic]",
+        "number": "399",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/400_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Katophrane's Locket [Relic]",
+        "number": "400",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/401_ENG-Katophranes-Plate-Relic.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Katophrane's Plate [Relic]",
+        "number": "401",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/402_ENG-Legendary-Swiftness.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Legendary Swiftness",
+        "number": "402",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/403_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Light Armour",
+        "number": "403",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/404_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Light-footed",
+        "number": "404",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/405_ENG-Low-Blow.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Low Blow",
+        "number": "405",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/408_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Second-in-command",
+        "number": "408",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/409_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Shadeglass Axe",
+        "number": "409",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/411_ENG-Shadeglass-Darts.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Shadeglass Darts",
+        "number": "411",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/412_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Shadeglass Hammer",
+        "number": "412",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/414_ENG-Shadeglass-Sword.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Shadeglass Sword",
+        "number": "414",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/415_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Shadestep",
+        "number": "415",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/416_ENG-Shardcaller.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Shardcaller",
+        "number": "416",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/417_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Shifting Image",
+        "number": "417",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/418_ENG-Sixth-Sense.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Sixth Sense",
+        "number": "418",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/419_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Solid Stance",
+        "number": "419",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/420_ENG-Soultrap.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "Soultrap",
+        "number": "420",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/421_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Sprinter",
+        "number": "421",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/423_ENG-Swift-Strike.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "Swift Strike",
+        "number": "423",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/425_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "The Blazing Key",
+        "number": "425",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/426_ENG-The-Dazzling-Key.png",
+        "location": "Sepulchral Guard Expansion",
+        "name": "The Dazzling Key",
+        "number": "426",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/428_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "The Fractured Key",
+        "number": "428",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/430_ENG-The-Shadowed-Key.png",
+        "location": "Ironskull's Boyz Expansion",
+        "name": "The Shadowed Key",
+        "number": "430",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/431_ENG-Total-Offence.png",
+        "location": "Core Set",
+        "name": "Total Offence",
+        "number": "431",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/432_ENG.png",
+        "location": "Spiteclaw's Swarm Expansion",
+        "name": "Trickster's Charm",
+        "number": "432",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/435_ENG.png",
+        "location": "The Chosen Axes Expansion",
+        "name": "Vampiric Weapon",
+        "number": "435",
+        "type": "Upgrade"
+    }
+]
