@@ -5,5 +5,8 @@ Install:
 npm install phantomjs
 npm install casperjs
 
-Execute:
+Execute (create cards.json, from shadespire deck library):
 casperjs casper.js
+
+Execute (download cards image for linux, need cards.json):
+python3.6 downloader.py
