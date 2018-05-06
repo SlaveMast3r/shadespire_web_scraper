@@ -1,5 +1,7 @@
 import json
-import urllib
+# import urllib.request
+import os
+# import wget
 from pprint import pprint
 
 with open('cards.json') as f:
@@ -7,5 +9,7 @@ with open('cards.json') as f:
 
 for card in data:
     pprint(card["name"])
-    urllib.urlretrieve (card["image"], card["name"] + ".png")
+    # wget.download(card["image"])
+    os.system("wget -O \"{0}\" \"{1}\"".format(card["name"] + ".png", card["image"]))
+    # urllib.request.urlretrieve (card["image"], card["name"] + ".png")
 pass
