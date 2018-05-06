@@ -1392,6 +1392,486 @@
         "type": "Upgrade"
     },
     {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/175_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "All the Better to Slay Them",
+        "number": "175",
+        "type": "Objective"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/176_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Bane of Champions",
+        "number": "176",
+        "type": "Objective"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/177_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Bloody Annihilation",
+        "number": "177",
+        "type": "Objective"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/178_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Khorne Sees Us",
+        "number": "178",
+        "type": "Objective"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/179_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Kill! Kill Again!",
+        "number": "179",
+        "type": "Objective"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/180_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "No Escape",
+        "number": "180",
+        "type": "Objective"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/181_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Rivers of Blood",
+        "number": "181",
+        "type": "Objective"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/182_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Save the Best",
+        "number": "182",
+        "type": "Objective"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/183_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Show of Strength",
+        "number": "183",
+        "type": "Objective"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/184_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Blood Frenzy",
+        "number": "184",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/185_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Bloodslick Ground",
+        "number": "185",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/186_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Bloody Retribution",
+        "number": "186",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/187_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Continue the Slaughter",
+        "number": "187",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/188_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Daemonic Resilience",
+        "number": "188",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/189_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Fountain of Gore",
+        "number": "189",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/190_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Furious Inspiration",
+        "number": "190",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/191_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Glory to Khorne",
+        "number": "191",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/192_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Horrifying Howl",
+        "number": "192",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/193_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "To the Victor, the Spoils",
+        "number": "193",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/194_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Brutal Charge",
+        "number": "194",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/195_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Daemonic Maw",
+        "number": "195",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/196_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Furious Charge",
+        "number": "196",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/197_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "No Respite",
+        "number": "197",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/198_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Predatory Leap",
+        "number": "198",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/199_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Rage-fuelled Attacks",
+        "number": "199",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/200_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Shake About",
+        "number": "200",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/201_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Trophy Hunter",
+        "number": "201",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/202_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Unshakeable",
+        "number": "202",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/203_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Wrathful Blows",
+        "number": "203",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/204_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Behead the Beast",
+        "number": "204",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/205_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Brave but Cautious",
+        "number": "205",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/206_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Close with the Enemy",
+        "number": "206",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/207_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Eternal Supremacy",
+        "number": "207",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/208_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Lightning Advance",
+        "number": "208",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/209_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Meticulous Annihilation",
+        "number": "209",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/210_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Punishing Volleys",
+        "number": "210",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/211_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Ranger Strike",
+        "number": "211",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/212_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Sigmar's Finest",
+        "number": "212",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/213_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Fearsome Roar",
+        "number": "213",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/214_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Firm Footing",
+        "number": "214",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/215_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Lightning Blow",
+        "number": "215",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/216_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Lightning Stride",
+        "number": "216",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/217_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Patient Defence",
+        "number": "217",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/218_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Rangers, Advance",
+        "number": "218",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/219_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Rapid Volley",
+        "number": "219",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/220_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Retribution",
+        "number": "220",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/221_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Steady Volley",
+        "number": "221",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/222_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Warning Cry",
+        "number": "222",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/223_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Aetheric Step",
+        "number": "223",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/224_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Covering Fire",
+        "number": "224",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/225_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Flashing Handaxe",
+        "number": "225",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/226_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Furious Blow",
+        "number": "226",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/227_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Lone Warrior",
+        "number": "227",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/228_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Overcharged Boltstorm Pistol",
+        "number": "228",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/229_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Sharp Eyes",
+        "number": "229",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/230_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Spinning Strike",
+        "number": "230",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/231_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Swift Stride",
+        "number": "231",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/232_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Well-timed Lunge",
+        "number": "232",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/233_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Accept Inevitability",
+        "number": "233",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/234_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Advancing Strike",
+        "number": "234",
+        "type": "Objective"
+    },
+    {
         "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/235_ENG.png",
         "location": "Spiteclaw's Swarm Expansion",
@@ -1413,6 +1893,14 @@
         "location": "The Chosen Axes Expansion",
         "name": "Assassinate",
         "number": "237",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/238_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Balance of Power",
+        "number": "238",
         "type": "Objective"
     },
     {
@@ -1445,6 +1933,38 @@
         "location": "Spiteclaw's Swarm Expansion",
         "name": "Butchery",
         "number": "242",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/243_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Change of Tactics",
+        "number": "243",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/244_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Chosen Champion",
+        "number": "244",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/245_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Complete Victory",
+        "number": "245",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/246_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Concerted Attack",
+        "number": "246",
         "type": "Objective"
     },
     {
@@ -1489,6 +2009,14 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/252_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Defensive Strike",
+        "number": "252",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/253_ENG-Denial.png",
         "location": "Core Set",
         "name": "Denial",
@@ -1529,6 +2057,14 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/258_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Fearless",
+        "number": "258",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/259_ENG-Flawless-Strategy.png",
         "location": "Sepulchral Guard Expansion",
         "name": "Flawless Strategy",
@@ -1541,6 +2077,22 @@
         "location": "Ironskull's Boyz Expansion",
         "name": "Geared for War",
         "number": "260",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/261_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Heroes All",
+        "number": "261",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/262_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Heroic Feat",
+        "number": "262",
         "type": "Objective"
     },
     {
@@ -1593,10 +2145,26 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/269_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Killing Ground",
+        "number": "269",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/270_ENG.png",
         "location": "The Chosen Axes Expansion",
         "name": "Making a Statement",
         "number": "270",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/271_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Massive Assault",
+        "number": "271",
         "type": "Objective"
     },
     {
@@ -1609,10 +2177,26 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/273_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Masterstroke",
+        "number": "273",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/274_ENG.png",
         "location": "Spiteclaw's Swarm Expansion",
         "name": "Miraculous Escape",
         "number": "274",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/275_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Multiple Fronts",
+        "number": "275",
         "type": "Objective"
     },
     {
@@ -1629,6 +2213,14 @@
         "location": "The Chosen Axes Expansion",
         "name": "No Remorse",
         "number": "277",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/278_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Our Only Way Out",
+        "number": "278",
         "type": "Objective"
     },
     {
@@ -1665,10 +2257,26 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/283_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Poised to Strike",
+        "number": "283",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/284_ENG.png",
         "location": "The Chosen Axes Expansion",
         "name": "Precise Use of Force",
         "number": "284",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/285_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Pure Carnage",
+        "number": "285",
         "type": "Objective"
     },
     {
@@ -1693,6 +2301,14 @@
         "location": "Ironskull's Boyz Expansion",
         "name": "Scent of Victory",
         "number": "288",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/289_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Skirting Danger",
+        "number": "289",
         "type": "Objective"
     },
     {
@@ -1809,10 +2425,34 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/304_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Unstoppable",
+        "number": "304",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/305_ENG-Victorious-Duel.png",
         "location": "Ironskull's Boyz Expansion",
         "name": "Victorious Duel",
         "number": "305",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/306_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Victory After Victory",
+        "number": "306",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/307_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "War of Attrition",
+        "number": "307",
         "type": "Objective"
     },
     {
@@ -1929,6 +2569,22 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/322_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Ephemeral Shield",
+        "number": "322",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/323_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Flickering Step",
+        "number": "323",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/324_ENG-Forceful-Denial.png",
         "location": "Sepulchral Guard Expansion",
         "name": "Forceful Denial",
@@ -1945,10 +2601,34 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/326_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Frozen in Time",
+        "number": "326",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/327_ENG.png",
         "location": "The Chosen Axes Expansion",
         "name": "Fuelled by Fury",
         "number": "327",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/328_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Grapple",
+        "number": "328",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/329_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Great Concussion",
+        "number": "329",
         "type": "Ploy"
     },
     {
@@ -1961,10 +2641,42 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/331_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Hidden Paths",
+        "number": "331",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/332_ENG-Illusory-Fighter.png",
         "location": "Sepulchral Guard Expansion",
         "name": "Illusory Fighter",
         "number": "332",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/333_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Improvisation",
+        "number": "333",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/334_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Inspiration Strikes",
+        "number": "334",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/335_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Invisible Walls",
+        "number": "335",
         "type": "Ploy"
     },
     {
@@ -1985,10 +2697,26 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/338_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Lethal Strike",
+        "number": "338",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/339_ENG-Mighty-Swing.png",
         "location": "Sepulchral Guard Expansion",
         "name": "Mighty Swing",
         "number": "339",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/340_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Mischievous Spirits",
+        "number": "340",
         "type": "Ploy"
     },
     {
@@ -2005,6 +2733,14 @@
         "location": "Spiteclaw's Swarm Expansion",
         "name": "Momentary Madness",
         "number": "342",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/343_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "My Turn",
+        "number": "343",
         "type": "Ploy"
     },
     {
@@ -2033,6 +2769,14 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/347_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Quick Thinker",
+        "number": "347",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/348_ENG.png",
         "location": "The Chosen Axes Expansion",
         "name": "Ready for Action",
@@ -2045,6 +2789,14 @@
         "location": "Spiteclaw's Swarm Expansion",
         "name": "Rebound",
         "number": "349",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/350_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Reflected Injury",
+        "number": "350",
         "type": "Ploy"
     },
     {
@@ -2073,10 +2825,26 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/354_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Second Wind",
+        "number": "354",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/355_ENG-Shardfall.png",
         "location": "Core Set",
         "name": "Shardfall",
         "number": "355",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/356_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Shardgale",
+        "number": "356",
         "type": "Ploy"
     },
     {
@@ -2113,6 +2881,14 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/361_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Spectral Wings",
+        "number": "361",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/362_ENG.png",
         "location": "Spiteclaw's Swarm Expansion",
         "name": "Spoils of Battle",
@@ -2137,10 +2913,26 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/365_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Tainted Vitality",
+        "number": "365",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/366_ENG.png",
         "location": "The Chosen Axes Expansion",
         "name": "Tantalising Prize",
         "number": "366",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/367_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Teamwork",
+        "number": "367",
         "type": "Ploy"
     },
     {
@@ -2177,6 +2969,22 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/372_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Twist the Knife",
+        "number": "372",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/373_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "A Destiny to Meet",
+        "number": "373",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/374_ENG.png",
         "location": "Spiteclaw's Swarm Expansion",
         "name": "Acrobatic",
@@ -2205,6 +3013,14 @@
         "location": "Sepulchral Guard Expansion",
         "name": "Blessed Armour",
         "number": "377",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/378_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Concealed Weapon",
+        "number": "378",
         "type": "Upgrade"
     },
     {
@@ -2241,6 +3057,22 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/383_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Dark Darts",
+        "number": "383",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/384_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Deathly Fortune",
+        "number": "384",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/385_ENG-Disengage.png",
         "location": "Core Set",
         "name": "Disengage",
@@ -2261,6 +3093,14 @@
         "location": "Ironskull's Boyz Expansion",
         "name": "Flickering Image",
         "number": "387",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/388_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Ghostblade",
+        "number": "388",
         "type": "Upgrade"
     },
     {
@@ -2313,10 +3153,34 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/395_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Incredible Strength",
+        "number": "395",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/396_ENG-Katophranes-Belt-Relic.png",
         "location": "Ironskull's Boyz Expansion",
         "name": "Katophrane's Belt [Relic]",
         "number": "396",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/397_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Katophrane's Boots [Relic]",
+        "number": "397",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/398_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Katophrane's Gloves [Relic]",
+        "number": "398",
         "type": "Upgrade"
     },
     {
@@ -2377,6 +3241,22 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/406_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Opportunist",
+        "number": "406",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/407_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Regeneration",
+        "number": "407",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/408_ENG.png",
         "location": "The Chosen Axes Expansion",
         "name": "Second-in-command",
@@ -2393,6 +3273,14 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/410_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Shadeglass Dagger",
+        "number": "410",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/411_ENG-Shadeglass-Darts.png",
         "location": "Ironskull's Boyz Expansion",
         "name": "Shadeglass Darts",
@@ -2405,6 +3293,14 @@
         "location": "Spiteclaw's Swarm Expansion",
         "name": "Shadeglass Hammer",
         "number": "412",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/413_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Shadeglass Spear",
+        "number": "413",
         "type": "Upgrade"
     },
     {
@@ -2473,10 +3369,26 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/422_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Superior Agility",
+        "number": "422",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/423_ENG-Swift-Strike.png",
         "location": "Ironskull's Boyz Expansion",
         "name": "Swift Strike",
         "number": "423",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/424_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Tethered Spirit",
+        "number": "424",
         "type": "Upgrade"
     },
     {
@@ -2497,10 +3409,26 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/427_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "The Formless Key",
+        "number": "427",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/428_ENG.png",
         "location": "Spiteclaw's Swarm Expansion",
         "name": "The Fractured Key",
         "number": "428",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/429_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "The Hallowed Key",
+        "number": "429",
         "type": "Upgrade"
     },
     {
@@ -2529,10 +3457,42 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/433_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Trusted Defender",
+        "number": "433",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/434_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "Unparalleled Strike",
+        "number": "434",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/435_ENG.png",
         "location": "The Chosen Axes Expansion",
         "name": "Vampiric Weapon",
         "number": "435",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/436_ENG.png",
+        "location": "Magore's Fiends Expansion",
+        "name": "War Cry",
+        "number": "436",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/437_ENG.png",
+        "location": "The Farstriders Expansion",
+        "name": "Zealous Defender",
+        "number": "437",
         "type": "Upgrade"
     }
 ]
