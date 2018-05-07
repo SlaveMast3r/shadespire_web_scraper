@@ -11,7 +11,7 @@ for card in data:
     pprint(card["name"])
 
     directory = "cards/" + card["faction"] + "/" + card["type"]
-    filename = card["name"] + ".png"
+    filename = card["number"] + " " + card["name"] + ".png"
 
     # create directory if doesn't exist yet
     os.system("mkdir -p \"{0}\"".format(directory))
