@@ -17,5 +17,5 @@ for card in data:
     os.system("mkdir -p \"{0}\"".format(directory))
 
     # download and save image
-    os.system("wget -O \"{0}\" \"{1}\"".format(directory + "/" + filename, card["image"]))
+    os.system("wget -O \"{0}\" -q --progress=bar \"{1}\"".format(directory + "/" + filename, card["image"]))
 pass
