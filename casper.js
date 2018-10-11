@@ -37,14 +37,14 @@ function tabsCount() {
 
 casper.start(url);
 
-casper.wait(2000, function() {
+casper.wait(5000, function() {
   tabs = casper.evaluate(tabsCount)
   console.log("Tabs: " + tabs);
 })
 
 casper.then(function() {
   for (var i = 0; i < tabs; i++) {
-    casper.wait(2000, function() {
+    casper.wait(5000, function() {
       var tempCards = this.evaluate(collectCards);
 
       for (var i = 0; i < tempCards.length; i++) {

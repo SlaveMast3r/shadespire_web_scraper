@@ -1,11 +1,163 @@
 [
     {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/001-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Blessed Banishment",
+        "number": "0001",
+        "type": "Objective"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/002-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Devastating Blow",
+        "number": "0002",
+        "type": "Objective"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/003-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Fight as One",
+        "number": "0003",
+        "type": "Objective"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/004-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Harness the Storm",
+        "number": "0004",
+        "type": "Objective"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/005-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Heavily Armed",
+        "number": "0005",
+        "type": "Objective"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/006-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Magical Supremacy",
+        "number": "0006",
+        "type": "Objective"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/007-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Measured Strike",
+        "number": "0007",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/008-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Overwhelming Storm",
+        "number": "0008",
+        "type": "Objective"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/009-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Purify the Earth",
+        "number": "0009",
+        "type": "Objective"
+    },
+    {
         "faction": "Garrek’s Reavers",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/001_ENG-A-Worthy-Skull.png",
         "location": "Core Set",
         "name": "A Worthy Skull",
         "number": "001",
         "type": "Objective"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/010-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Aetherwing Stance",
+        "number": "0010",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/011-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Chain Lightning",
+        "number": "0011",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/012-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Cry of Thunder",
+        "number": "0012",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/013-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Empathic Connection",
+        "number": "0013",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/014-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Gather the Storm",
+        "number": "0014",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/015-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Lightning Assault",
+        "number": "0015",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/016-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Lightning Step",
+        "number": "0016",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/017-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Safeguard Spirit",
+        "number": "0017",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/018-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Stormstrike",
+        "number": "0018",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/019-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Stormward",
+        "number": "0019",
+        "type": "Ploy"
     },
     {
         "faction": "Garrek’s Reavers",
@@ -16,12 +168,172 @@
         "type": "Objective"
     },
     {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/020-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Blessed Blade",
+        "number": "0020",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/021-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Corposant Staff",
+        "number": "0021",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/022-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Disarming Blow",
+        "number": "0022",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/023-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Eye of the Storm",
+        "number": "0023",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/024-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Hurricane Step",
+        "number": "0024",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/025-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Lightning Whip",
+        "number": "0025",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/026-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Stunning Blow",
+        "number": "0026",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/027-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Tempest's Might",
+        "number": "0027",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/028-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Unstoppable Zeal",
+        "number": "0028",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Stormsire’s Cursebreakers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/029-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Warding Blast",
+        "number": "0029",
+        "type": "Upgrade"
+    },
+    {
         "faction": "Garrek’s Reavers",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/003_ENG-Coward.png",
         "location": "Core Set",
         "name": "Coward!",
         "number": "003",
         "type": "Objective"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/030-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "As Nagash Commands",
+        "number": "0030",
+        "type": "Objective"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/031-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Death Sentence",
+        "number": "0031",
+        "type": "Objective"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/032-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Drag Them Down",
+        "number": "0032",
+        "type": "Objective"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/033-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Execution",
+        "number": "0033",
+        "type": "Objective"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/034-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Swarming Spirits",
+        "number": "0034",
+        "type": "Objective"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/035-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Take the City",
+        "number": "0035",
+        "type": "Objective"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/036-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "The Vengeful Dead",
+        "number": "0036",
+        "type": "Objective"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/037-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Treacherous Foe",
+        "number": "0037",
+        "type": "Objective"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/038-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Vengeful Advance",
+        "number": "0038",
+        "type": "Objective"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/039-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Drifting Advance",
+        "number": "0039",
+        "type": "Ploy"
     },
     {
         "faction": "Garrek’s Reavers",
@@ -32,12 +344,164 @@
         "type": "Objective"
     },
     {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/040-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Endless Malice",
+        "number": "0040",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/041-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Grasping Chains",
+        "number": "0041",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/042-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Howling Vortex",
+        "number": "0042",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/043-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Maddening Cackle",
+        "number": "0043",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/044-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Rending Scream",
+        "number": "0044",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/045-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Spectral Parry",
+        "number": "0045",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/046-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Spectral Touch",
+        "number": "0046",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/047-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Sudden Appearance",
+        "number": "0047",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/048-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Vengeful Curse",
+        "number": "0048",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/049-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Chill Touch",
+        "number": "0049",
+        "type": "Upgrade"
+    },
+    {
         "faction": "Garrek’s Reavers",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/005_ENG-It-Begins.png",
         "location": "Core Set",
         "name": "It Begins",
         "number": "005",
         "type": "Objective"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/050-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Creeping Terror",
+        "number": "0050",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/051-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Curse of Unbinding",
+        "number": "0051",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/052-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Driven by Hatred",
+        "number": "0052",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/053-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Face of Death",
+        "number": "0053",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/054-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Grasping Thorns",
+        "number": "0054",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/055-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Inescapable Vengeance",
+        "number": "0055",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/057-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Shacklegheist Chains",
+        "number": "0056",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/056-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Sadistic Strike",
+        "number": "0056",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/058-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Strangling Coil",
+        "number": "0058",
+        "type": "Upgrade"
     },
     {
         "faction": "Garrek’s Reavers",
@@ -70,6 +534,14 @@
         "name": "There is Only Slaughter",
         "number": "009",
         "type": "Objective"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L01_ENG-1.png",
+        "location": "Leaders",
+        "name": "Invulnerable",
+        "number": "01",
+        "type": "Ploy"
     },
     {
         "faction": "Garrek’s Reavers",
@@ -152,6 +624,14 @@
         "type": "Ploy"
     },
     {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L02_ENG-1.png",
+        "location": "Leaders",
+        "name": "Steelheart’s Second",
+        "number": "02",
+        "type": "Upgrade"
+    },
+    {
         "faction": "Garrek’s Reavers",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/020_ENG-Berserk-Charge.png",
         "location": "Core Set",
@@ -232,6 +712,22 @@
         "type": "Upgrade"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/294-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Annihilation",
+        "number": "0294",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L03_ENG.png",
+        "location": "Leaders",
+        "name": "The Stage Is Set",
+        "number": "03",
+        "type": "Objective"
+    },
+    {
         "faction": "Steelheart’s Champions",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/030_ENG-Awe-inspiring.png",
         "location": "Core Set",
@@ -240,11 +736,27 @@
         "type": "Objective"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/306-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Conquest",
+        "number": "0306",
+        "type": "Objective"
+    },
+    {
         "faction": "Steelheart’s Champions",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/031_ENG-Cleanse.png",
         "location": "Core Set",
         "name": "Cleanse",
         "number": "031",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/310-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Denial",
+        "number": "0310",
         "type": "Objective"
     },
     {
@@ -261,6 +773,46 @@
         "location": "Core Set",
         "name": "Eternals",
         "number": "033",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/330-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Hold Objective 1",
+        "number": "0330",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/331-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Hold Objective 2",
+        "number": "0331",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/332-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Hold Objective 3",
+        "number": "0332",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/333-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Hold Objective 4",
+        "number": "0333",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/334-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Hold Objective 5",
+        "number": "0334",
         "type": "Objective"
     },
     {
@@ -296,6 +848,14 @@
         "type": "Objective"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/374-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Supremacy",
+        "number": "0374",
+        "type": "Objective"
+    },
+    {
         "faction": "Steelheart’s Champions",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/038_ENG-Slayers-of-Tyrants.png",
         "location": "Core Set",
@@ -312,11 +872,35 @@
         "type": "Ploy"
     },
     {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L04_ENG-1.png",
+        "location": "Leaders",
+        "name": "Coveted Trophy",
+        "number": "04",
+        "type": "Ploy"
+    },
+    {
         "faction": "Steelheart’s Champions",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/040_ENG-Peal-of-Thunder.png",
         "location": "Core Set",
         "name": "Peal of Thunder",
         "number": "040",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/403-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Confusion",
+        "number": "0403",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/409-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Determined Effort",
+        "number": "0409",
         "type": "Ploy"
     },
     {
@@ -326,6 +910,14 @@
         "name": "Righteous Zeal",
         "number": "041",
         "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/419-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Grinding Earth",
+        "number": "0419",
+        "type": "Gambit Spell"
     },
     {
         "faction": "Steelheart’s Champions",
@@ -349,6 +941,14 @@
         "location": "Core Set",
         "name": "Stormforged Tactics",
         "number": "044",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/446-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Sidestep",
+        "number": "0446",
         "type": "Ploy"
     },
     {
@@ -376,6 +976,14 @@
         "type": "Ploy"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/471-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Vital Surge",
+        "number": "0471",
+        "type": "Gambit Spell"
+    },
+    {
         "faction": "Steelheart’s Champions",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/048_ENG-Valiant-Attack.png",
         "location": "Core Set",
@@ -392,6 +1000,22 @@
         "type": "Upgrade"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/497-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Escape Artist",
+        "number": "0497",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L05_ENG.png",
+        "location": "Leaders",
+        "name": "Fervent Petition",
+        "number": "05",
+        "type": "Objective"
+    },
+    {
         "faction": "Steelheart’s Champions",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/050_ENG-Block.png",
         "location": "Core Set",
@@ -400,11 +1024,43 @@
         "type": "Upgrade"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/504-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Great Fortitude",
+        "number": "0504",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/505-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Great Speed",
+        "number": "0505",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/506-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Great Strength",
+        "number": "0506",
+        "type": "Upgrade"
+    },
+    {
         "faction": "Steelheart’s Champions",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/051_ENG-Brave-Strike.png",
         "location": "Core Set",
         "name": "Brave Strike",
         "number": "051",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Thorns of the Briar Queen",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/512-NV_ENG.png",
+        "location": "Nightvault Core Set",
+        "name": "Lucky Trinket",
+        "number": "0512",
         "type": "Upgrade"
     },
     {
@@ -470,6 +1126,14 @@
         "name": "Battle Without End",
         "number": "059",
         "type": "Objective"
+    },
+    {
+        "faction": "Sepulchral Guard",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L06_ENG-1.png",
+        "location": "Leaders",
+        "name": "Warden’s Call",
+        "number": "06",
+        "type": "Upgrade"
     },
     {
         "faction": "Sepulchral Guard",
@@ -552,6 +1216,14 @@
         "type": "Ploy"
     },
     {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L07_ENG.png",
+        "location": "Leaders",
+        "name": "Showin’ Off",
+        "number": "07",
+        "type": "Objective"
+    },
+    {
         "faction": "Sepulchral Guard",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/070_ENG-Clawing-Hands.png",
         "location": "Sepulchral Guard Expansion",
@@ -632,6 +1304,14 @@
         "type": "Upgrade"
     },
     {
+        "faction": "Ironskull’s Boyz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L08_ENG-1.png",
+        "location": "Leaders",
+        "name": "Impress da Boss",
+        "number": "08",
+        "type": "Ploy"
+    },
+    {
         "faction": "Sepulchral Guard",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/080_ENG-Deathly-Charge.png",
         "location": "Sepulchral Guard Expansion",
@@ -709,6 +1389,14 @@
         "location": "Ironskull's Boyz Expansion",
         "name": "Biggest an' da Best",
         "number": "089",
+        "type": "Objective"
+    },
+    {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L09_ENG.png",
+        "location": "Leaders",
+        "name": "Pride of the Lodge",
+        "number": "09",
         "type": "Objective"
     },
     {
@@ -792,6 +1480,14 @@
         "type": "Ploy"
     },
     {
+        "faction": "The Chosen Axes",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L10_ENG-1.png",
+        "location": "Leaders",
+        "name": "Grimnir Commands",
+        "number": "10",
+        "type": "Ploy"
+    },
+    {
         "faction": "Ironskull’s Boyz",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/100_ENG-Gorkamorkas-Blessing.png",
         "location": "Ironskull's Boyz Expansion",
@@ -870,6 +1566,14 @@
         "name": "Brutal Frenzy",
         "number": "109",
         "type": "Upgrade"
+    },
+    {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L11_ENG.png",
+        "location": "Leaders",
+        "name": "Krrk Now Leads!",
+        "number": "11",
+        "type": "Objective"
     },
     {
         "faction": "Ironskull’s Boyz",
@@ -952,6 +1656,14 @@
         "type": "Objective"
     },
     {
+        "faction": "Spiteclaw's Swarm",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L12_ENG-1.png",
+        "location": "Leaders",
+        "name": "Krrk the Clawchief",
+        "number": "12",
+        "type": "Upgrade"
+    },
+    {
         "faction": "The Chosen Axes",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/120_ENG.png",
         "location": "The Chosen Axes Expansion",
@@ -1032,6 +1744,14 @@
         "type": "Ploy"
     },
     {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L13_ENG.png",
+        "location": "Leaders",
+        "name": "Khorne’s Chosen",
+        "number": "13",
+        "type": "Objective"
+    },
+    {
         "faction": "The Chosen Axes",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/130_ENG.png",
         "location": "The Chosen Axes Expansion",
@@ -1109,6 +1829,14 @@
         "location": "The Chosen Axes Expansion",
         "name": "Flurry of Blows",
         "number": "139",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Magore's Fiends",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L14_ENG-1.png",
+        "location": "Leaders",
+        "name": "Gory Visage",
+        "number": "14",
         "type": "Upgrade"
     },
     {
@@ -1192,6 +1920,14 @@
         "type": "Objective"
     },
     {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L15_ENG.png",
+        "location": "Leaders",
+        "name": "Intervention",
+        "number": "15",
+        "type": "Objective"
+    },
+    {
         "faction": "Spiteclaw's Swarm",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/150_ENG.png",
         "location": "Spiteclaw's Swarm Expansion",
@@ -1269,6 +2005,14 @@
         "location": "Spiteclaw's Swarm Expansion",
         "name": "Musk of Fear",
         "number": "159",
+        "type": "Ploy"
+    },
+    {
+        "faction": "The Farstriders",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L16_ENG-1.png",
+        "location": "Leaders",
+        "name": "Raptor Strike",
+        "number": "16",
         "type": "Ploy"
     },
     {
@@ -1352,6 +2096,14 @@
         "type": "Upgrade"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L17_ENG.png",
+        "location": "Leaders",
+        "name": "Bold Advance",
+        "number": "17",
+        "type": "Objective"
+    },
+    {
         "faction": "Spiteclaw's Swarm",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/170_ENG.png",
         "location": "Spiteclaw's Swarm Expansion",
@@ -1429,6 +2181,14 @@
         "location": "Magore's Fiends Expansion",
         "name": "Kill! Kill Again!",
         "number": "179",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L18_ENG.png",
+        "location": "Leaders",
+        "name": "Drawing Focus",
+        "number": "18",
         "type": "Objective"
     },
     {
@@ -1512,6 +2272,14 @@
         "type": "Ploy"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L19_ENG.png",
+        "location": "Leaders",
+        "name": "Fearless Leader",
+        "number": "19",
+        "type": "Objective"
+    },
+    {
         "faction": "Magore's Fiends",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/190_ENG.png",
         "location": "Magore's Fiends Expansion",
@@ -1592,6 +2360,14 @@
         "type": "Upgrade"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L20_ENG.png",
+        "location": "Leaders",
+        "name": "Great Slayer",
+        "number": "20",
+        "type": "Objective"
+    },
+    {
         "faction": "Magore's Fiends",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/200_ENG.png",
         "location": "Magore's Fiends Expansion",
@@ -1669,6 +2445,14 @@
         "location": "The Farstriders Expansion",
         "name": "Meticulous Annihilation",
         "number": "209",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L21_ENG.png",
+        "location": "Leaders",
+        "name": "Impervious",
+        "number": "21",
         "type": "Objective"
     },
     {
@@ -1752,6 +2536,14 @@
         "type": "Ploy"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L22_ENG.png",
+        "location": "Leaders",
+        "name": "Linchpin",
+        "number": "22",
+        "type": "Objective"
+    },
+    {
         "faction": "The Farstriders",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/220_ENG.png",
         "location": "The Farstriders Expansion",
@@ -1832,6 +2624,14 @@
         "type": "Upgrade"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L23_ENG.png",
+        "location": "Leaders",
+        "name": "Neutralise",
+        "number": "23",
+        "type": "Objective"
+    },
+    {
         "faction": "The Farstriders",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/230_ENG.png",
         "location": "The Farstriders Expansion",
@@ -1909,6 +2709,14 @@
         "location": "Ironskull's Boyz Expansion",
         "name": "Blooded",
         "number": "239",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L24_ENG.png",
+        "location": "Leaders",
+        "name": "Shining Example",
+        "number": "24",
         "type": "Objective"
     },
     {
@@ -1993,6 +2801,14 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L25_ENG.png",
+        "location": "Leaders",
+        "name": "Slayer",
+        "number": "25",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/250_ENG-Crushing-Force.png",
         "location": "Sepulchral Guard Expansion",
         "name": "Crushing Force",
@@ -2069,6 +2885,14 @@
         "location": "Sepulchral Guard Expansion",
         "name": "Flawless Strategy",
         "number": "259",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L26_ENG.png",
+        "location": "Leaders",
+        "name": "Sufficient",
+        "number": "26",
         "type": "Objective"
     },
     {
@@ -2153,6 +2977,14 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L27_ENG.png",
+        "location": "Leaders",
+        "name": "Tireless Commander",
+        "number": "27",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/270_ENG.png",
         "location": "The Chosen Axes Expansion",
         "name": "Making a Statement",
@@ -2229,6 +3061,14 @@
         "location": "Spiteclaw's Swarm Expansion",
         "name": "Overextended",
         "number": "279",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L28_ENG.png",
+        "location": "Leaders",
+        "name": "Undefeated",
+        "number": "28",
         "type": "Objective"
     },
     {
@@ -2313,6 +3153,14 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L29_ENG.png",
+        "location": "Leaders",
+        "name": "Well-guarded",
+        "number": "29",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/290_ENG-Stymied.png",
         "location": "Sepulchral Guard Expansion",
         "name": "Stymied",
@@ -2393,6 +3241,14 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L30_ENG-1.png",
+        "location": "Leaders",
+        "name": "Burden of Command",
+        "number": "30",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/300_ENG.png",
         "location": "The Chosen Axes Expansion",
         "name": "Total Annihilation",
@@ -2469,6 +3325,14 @@
         "location": "Spiteclaw's Swarm Expansion",
         "name": "Blinding Flash",
         "number": "309",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L31_ENG-1.png",
+        "location": "Leaders",
+        "name": "Cautious Commander",
+        "number": "31",
         "type": "Ploy"
     },
     {
@@ -2553,6 +3417,14 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L32_ENG-1.png",
+        "location": "Leaders",
+        "name": "Commanding Reach",
+        "number": "32",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/320_ENG-Duel-of-Wits.png",
         "location": "Ironskull's Boyz Expansion",
         "name": "Duel of Wits",
@@ -2629,6 +3501,14 @@
         "location": "The Farstriders Expansion",
         "name": "Great Concussion",
         "number": "329",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L33_ENG-1.png",
+        "location": "Leaders",
+        "name": "Commanding Strike",
+        "number": "33",
         "type": "Ploy"
     },
     {
@@ -2713,6 +3593,14 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L34_ENG-1.png",
+        "location": "Leaders",
+        "name": "Crippling Doubt",
+        "number": "34",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/340_ENG.png",
         "location": "Magore's Fiends Expansion",
         "name": "Mischievous Spirits",
@@ -2789,6 +3677,14 @@
         "location": "Spiteclaw's Swarm Expansion",
         "name": "Rebound",
         "number": "349",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L35_ENG-1.png",
+        "location": "Leaders",
+        "name": "Final Duty",
+        "number": "35",
         "type": "Ploy"
     },
     {
@@ -2873,6 +3769,14 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L36_ENG-1.png",
+        "location": "Leaders",
+        "name": "Great Cunning",
+        "number": "36",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/360_ENG-Sidestep.png",
         "location": "Core Set",
         "name": "Sidestep",
@@ -2949,6 +3853,14 @@
         "location": "The Chosen Axes Expansion",
         "name": "Trap",
         "number": "369",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L37_ENG-1.png",
+        "location": "Leaders",
+        "name": "Hidden Reserves",
+        "number": "37",
         "type": "Ploy"
     },
     {
@@ -3033,6 +3945,14 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L38_ENG-1.png",
+        "location": "Leaders",
+        "name": "Inspired Command",
+        "number": "38",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/380_ENG-Cunning-Duellist.png",
         "location": "Sepulchral Guard Expansion",
         "name": "Cunning Duellist",
@@ -3110,6 +4030,14 @@
         "name": "Great Fortitude",
         "number": "389",
         "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L39_ENG-1.png",
+        "location": "Leaders",
+        "name": "Look Out!",
+        "number": "39",
+        "type": "Ploy"
     },
     {
         "faction": "Universal",
@@ -3193,6 +4121,14 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L40_ENG-1.png",
+        "location": "Leaders",
+        "name": "No Retreat",
+        "number": "40",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/400_ENG.png",
         "location": "The Chosen Axes Expansion",
         "name": "Katophrane's Locket [Relic]",
@@ -3270,6 +4206,14 @@
         "name": "Shadeglass Axe",
         "number": "409",
         "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L41_ENG-1.png",
+        "location": "Leaders",
+        "name": "Premonition",
+        "number": "41",
+        "type": "Ploy"
     },
     {
         "faction": "Universal",
@@ -3353,6 +4297,14 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L42_ENG-1.png",
+        "location": "Leaders",
+        "name": "Quick Advance",
+        "number": "42",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/420_ENG-Soultrap.png",
         "location": "Sepulchral Guard Expansion",
         "name": "Soultrap",
@@ -3433,6 +4385,14 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L43_ENG-1.png",
+        "location": "Leaders",
+        "name": "Quick Manoeuvre",
+        "number": "43",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/430_ENG-The-Shadowed-Key.png",
         "location": "Ironskull's Boyz Expansion",
         "name": "The Shadowed Key",
@@ -3493,6 +4453,142 @@
         "location": "The Farstriders Expansion",
         "name": "Zealous Defender",
         "number": "437",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L44_ENG-1.png",
+        "location": "Leaders",
+        "name": "Tyrant’s Command",
+        "number": "44",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L45_ENG.png",
+        "location": "Leaders",
+        "name": "Apex Predator",
+        "number": "45",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L46_ENG.png",
+        "location": "Leaders",
+        "name": "Commanding Presence",
+        "number": "46",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L47_ENG.png",
+        "location": "Leaders",
+        "name": "Commanding Shout",
+        "number": "47",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L48_ENG.png",
+        "location": "Leaders",
+        "name": "Cursed Shield",
+        "number": "48",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L49_ENG.png",
+        "location": "Leaders",
+        "name": "Hero’s Mantle",
+        "number": "49",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L50_ENG.png",
+        "location": "Leaders",
+        "name": "Irresistible Challenge",
+        "number": "50",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L51_ENG.png",
+        "location": "Leaders",
+        "name": "Katophrane's Ring [Relic]",
+        "number": "51",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L52_ENG.png",
+        "location": "Leaders",
+        "name": "Kingsbane",
+        "number": "52",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L53_ENG.png",
+        "location": "Leaders",
+        "name": "Loyal Defender",
+        "number": "53",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L54_ENG.png",
+        "location": "Leaders",
+        "name": "Master of Tactics",
+        "number": "54",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L55_ENG.png",
+        "location": "Leaders",
+        "name": "Mighty Shove",
+        "number": "55",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L56_ENG.png",
+        "location": "Leaders",
+        "name": "Rising to the Challenge",
+        "number": "56",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L57_ENG.png",
+        "location": "Leaders",
+        "name": "Seize the Day",
+        "number": "57",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L58_ENG.png",
+        "location": "Leaders",
+        "name": "Treacherous Second",
+        "number": "58",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L59_ENG.png",
+        "location": "Leaders",
+        "name": "Trusted Second",
+        "number": "59",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L60_ENG.png",
+        "location": "Leaders",
+        "name": "Tyrant’s Lash",
+        "number": "60",
         "type": "Upgrade"
     }
 ]
