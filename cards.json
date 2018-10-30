@@ -481,18 +481,18 @@
     },
     {
         "faction": "Thorns of the Briar Queen",
-        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/057-NV_ENG.png",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/056-NV_ENG.png",
         "location": "Nightvault Core Set",
-        "name": "Shacklegheist Chains",
+        "name": "Sadistic Strike",
         "number": "0056",
         "type": "Upgrade"
     },
     {
         "faction": "Thorns of the Briar Queen",
-        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/056-NV_ENG.png",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/057-NV_ENG.png",
         "location": "Nightvault Core Set",
-        "name": "Sadistic Strike",
-        "number": "0056",
+        "name": "Shacklegheist Chains",
+        "number": "0057",
         "type": "Upgrade"
     },
     {
@@ -504,12 +504,100 @@
         "type": "Upgrade"
     },
     {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/059-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Agents of Change",
+        "number": "0059",
+        "type": "Objective"
+    },
+    {
         "faction": "Garrek’s Reavers",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/006_ENG-Khorne-Cares-Not.png",
         "location": "Core Set",
         "name": "Khorne Cares Not",
         "number": "006",
         "type": "Objective"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/060-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Bind the City",
+        "number": "0060",
+        "type": "Objective"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/061-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Chosen By Destiny",
+        "number": "0061",
+        "type": "Objective"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/062-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Eyes Of The Master",
+        "number": "0062",
+        "type": "Objective"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/063-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Harness Knowledge",
+        "number": "0063",
+        "type": "Objective"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/064-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Master of Magic",
+        "number": "0064",
+        "type": "Objective"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/065-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Rising Inferno",
+        "number": "0065",
+        "type": "Objective"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/066-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Summoner",
+        "number": "0066",
+        "type": "Objective"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/067-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Ultimate Change",
+        "number": "0067",
+        "type": "Objective"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/068-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Blessing of Tzeentch",
+        "number": "0068",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/069-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Bound by Fate",
+        "number": "0069",
+        "type": "Ploy"
     },
     {
         "faction": "Garrek’s Reavers",
@@ -520,11 +608,171 @@
         "type": "Objective"
     },
     {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/070-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Deceitful Step",
+        "number": "0070",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/071-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Driven by Ambition",
+        "number": "0071",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/072-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Eidetic Memory",
+        "number": "0072",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/073-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Malicious Flames",
+        "number": "0073",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/074-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Ravenous Flame",
+        "number": "0074",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/075-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Shield of Fate",
+        "number": "0075",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/076-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Stolen Fate",
+        "number": "0076",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/077-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Wracking Change",
+        "number": "0077",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/078-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Arcanite Shield",
+        "number": "0078",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/079-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Bizarre Capering",
+        "number": "0079",
+        "type": "Upgrade"
+    },
+    {
         "faction": "Garrek’s Reavers",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/008_ENG-Let-the-Blood-Flow.png",
         "location": "Core Set",
         "name": "Let the Blood Flow",
         "number": "008",
+        "type": "Objective"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/080-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Empowered Sorcery",
+        "number": "0080",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/081-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Fateward",
+        "number": "0081",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/082-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Fiery Blessing",
+        "number": "0082",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/083-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Piercing Bolt",
+        "number": "0083",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/084-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Scroll of Dark Arts",
+        "number": "0084",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/085-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Silver Tether",
+        "number": "0085",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/086-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Sorcerous Adept",
+        "number": "0086",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Eyes of the Nine",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/087-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Strength of Arrogance",
+        "number": "0087",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/088-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Call that a Win",
+        "number": "0088",
+        "type": "Objective"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/089-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Dank Haven",
+        "number": "0089",
         "type": "Objective"
     },
     {
@@ -534,6 +782,86 @@
         "name": "There is Only Slaughter",
         "number": "009",
         "type": "Objective"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/090-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Flash Finale",
+        "number": "0090",
+        "type": "Objective"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/091-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Infestation",
+        "number": "0091",
+        "type": "Objective"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/092-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Mad Scurry",
+        "number": "0092",
+        "type": "Objective"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/093-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Malicious Kill",
+        "number": "0093",
+        "type": "Objective"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/094-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Obliterated",
+        "number": "0094",
+        "type": "Objective"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/095-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Scragged",
+        "number": "0095",
+        "type": "Objective"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/096-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Vicious Killers",
+        "number": "0096",
+        "type": "Objective"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/097-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Curse of da Bad Moon",
+        "number": "0097",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/098-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Fungal Blessing",
+        "number": "0098",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/099-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Jealous Hex",
+        "number": "0099",
+        "type": "Gambit Spell"
     },
     {
         "faction": "Steelheart’s Champions",
@@ -552,6 +880,86 @@
         "type": "Ploy"
     },
     {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/100-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Little Waaagh!",
+        "number": "0100",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/101-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Madcap Mushroom",
+        "number": "0101",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/102-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Make Some Noise",
+        "number": "0102",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/103-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "’Orrible Leer",
+        "number": "0103",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/104-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Sneaky Stabbin’",
+        "number": "0104",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/105-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Sneaky Step",
+        "number": "0105",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/106-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Stab ‘em in the Knee",
+        "number": "0106",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/107-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Endless Whirl",
+        "number": "0107",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/108-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Extra Bouncy",
+        "number": "0108",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/109-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Fiery Brand",
+        "number": "0109",
+        "type": "Upgrade"
+    },
+    {
         "faction": "Garrek’s Reavers",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/011_ENG-Blood-Rain.png",
         "location": "Core Set",
@@ -560,11 +968,171 @@
         "type": "Ploy"
     },
     {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/110-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Grizzled Survivor",
+        "number": "0110",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/111-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Lurker",
+        "number": "0111",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/112-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Nasty Stabba",
+        "number": "0112",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/113-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Ravenous",
+        "number": "0113",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/114-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Sniffer Spite",
+        "number": "0114",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/115-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Vindictive Glare",
+        "number": "0115",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/116-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Volley Caller",
+        "number": "0116",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/117-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "A Worthy Skull",
+        "number": "0117",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/118-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Blood For The Blood God",
+        "number": "0118",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/119-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Coward!",
+        "number": "0119",
+        "type": "Objective"
+    },
+    {
         "faction": "Garrek’s Reavers",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/012_ENG-Boon-of-Khorne.png",
         "location": "Core Set",
         "name": "Boon of Khorne",
         "number": "012",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/120-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Draw The Gaze Of Khorne",
+        "number": "0120",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/121-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "It Begins",
+        "number": "0121",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/122-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Khorne Cares Not",
+        "number": "0122",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/123-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Khorne's Champion",
+        "number": "0123",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/124-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Let The Blood Flow",
+        "number": "0124",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/125-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "There Is Only Slaughter",
+        "number": "0125",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/126-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Blood Offering",
+        "number": "0126",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/127-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Blood Rain",
+        "number": "0127",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/128-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Boon of Khorne",
+        "number": "0128",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/129-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Desecrate",
+        "number": "0129",
         "type": "Ploy"
     },
     {
@@ -577,6 +1145,86 @@
     },
     {
         "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/130-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Final Blow",
+        "number": "0130",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/131-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Fuelled by Slaughter",
+        "number": "0131",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/132-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Insensate",
+        "number": "0132",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/133-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Khorne Calls",
+        "number": "0133",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/134-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Rebirth in Blood",
+        "number": "0134",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/135-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Skulls for the Skull Throne!",
+        "number": "0135",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/136-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Berserk Charge",
+        "number": "0136",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/137-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Bloodslick",
+        "number": "0137",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/138-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Deadly Spin",
+        "number": "0138",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/139-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Ever-Advancing",
+        "number": "0139",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/014_ENG-Final-Blow.png",
         "location": "Core Set",
         "name": "Final Blow",
@@ -585,10 +1233,170 @@
     },
     {
         "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/140-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Frenzy",
+        "number": "0140",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/141-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Grisly Trophy",
+        "number": "0141",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/142-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Terrifying Howl",
+        "number": "0142",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/143-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Unstoppable Charge",
+        "number": "0143",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/144-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Whirlwind of Death",
+        "number": "0144",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Garrek’s Reavers",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/145-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Wicked Blade",
+        "number": "0145",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/146-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Awe-Inspiring",
+        "number": "0146",
+        "type": "Objective"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/147-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Cleanse",
+        "number": "0147",
+        "type": "Objective"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/148-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Consecrated Area",
+        "number": "0148",
+        "type": "Objective"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/149-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Eternals",
+        "number": "0149",
+        "type": "Objective"
+    },
+    {
+        "faction": "Garrek’s Reavers",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/015_ENG-Fuelled-by-Slaughter.png",
         "location": "Core Set",
         "name": "Fuelled by Slaughter",
         "number": "015",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/150-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Immovable Object",
+        "number": "0150",
+        "type": "Objective"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/151-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Lightning Strikes",
+        "number": "0151",
+        "type": "Objective"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/152-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Seize Ground",
+        "number": "0152",
+        "type": "Objective"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/153-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Sigmar's Bulwark",
+        "number": "0153",
+        "type": "Objective"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/154-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Slayers Of Tyrants",
+        "number": "0154",
+        "type": "Objective"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/155-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Heroic Guard",
+        "number": "0155",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/156-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Peal of Thunder",
+        "number": "0156",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/157-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Righteous Zeal",
+        "number": "0157",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/158-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Sigmarite Wall",
+        "number": "0158",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/159-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Stormforged Resistance",
+        "number": "0159",
         "type": "Ploy"
     },
     {
@@ -600,12 +1408,132 @@
         "type": "Ploy"
     },
     {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/160-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Stormforged Tactics",
+        "number": "0160",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/161-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Tireless Assault",
+        "number": "0161",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/162-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Undaunted",
+        "number": "0162",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/163-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Unstoppable Strike",
+        "number": "0163",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/164-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Valiant Attack",
+        "number": "0164",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/165-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Blessed By Sigmar",
+        "number": "0165",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/166-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Block",
+        "number": "0166",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/167-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Brave Strike",
+        "number": "0167",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/168-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Fatal Riposte",
+        "number": "0168",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/169-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Heroic Might",
+        "number": "0169",
+        "type": "Upgrade"
+    },
+    {
         "faction": "Garrek’s Reavers",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/017_ENG-Khorne-Calls.png",
         "location": "Core Set",
         "name": "Khorne Calls",
         "number": "017",
         "type": "Ploy"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/170-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Heroic Stride",
+        "number": "0170",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/171-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Lightning Blade",
+        "number": "0171",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/172-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Lightning Blast",
+        "number": "0172",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/173-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Righteous Strike",
+        "number": "0173",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Steelheart’s Champions",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/174-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Shield Bash",
+        "number": "0174",
+        "type": "Upgrade"
     },
     {
         "faction": "Garrek’s Reavers",
@@ -713,10 +1641,42 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/291-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Acolyte of the Katophranes",
+        "number": "0291",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/293-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "All or Nothing",
+        "number": "0293",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/294-NV_ENG.png",
         "location": "Nightvault Core Set",
         "name": "Annihilation",
         "number": "0294",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/295-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Arcane Implosion",
+        "number": "0295",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/296-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Arcane Torrent",
+        "number": "0296",
         "type": "Objective"
     },
     {
@@ -737,10 +1697,58 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/300-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Brute Force",
+        "number": "0300",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/303-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Catching Up",
+        "number": "0303",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/304-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Charmed Life",
+        "number": "0304",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/305-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Combination Strike",
+        "number": "0305",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/306-NV_ENG.png",
         "location": "Nightvault Core Set",
         "name": "Conquest",
         "number": "0306",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/307-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Cornered",
+        "number": "0307",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/308-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Dashed Hopes",
+        "number": "0308",
         "type": "Objective"
     },
     {
@@ -760,11 +1768,75 @@
         "type": "Objective"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/317-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Extreme Flank",
+        "number": "0317",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/318-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Finish Them",
+        "number": "0318",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/319-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Fired Up",
+        "number": "0319",
+        "type": "Objective"
+    },
+    {
         "faction": "Steelheart’s Champions",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/032_ENG-Consecrated-Area.png",
         "location": "Core Set",
         "name": "Consecrated Area",
         "number": "032",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/321-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Ganging Up",
+        "number": "0321",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/324-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Girded for Battle",
+        "number": "0324",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/325-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Grand Melee",
+        "number": "0325",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/326-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Great Gains",
+        "number": "0326",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/327-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Hale and Whole",
+        "number": "0327",
         "type": "Objective"
     },
     {
@@ -816,11 +1888,51 @@
         "type": "Objective"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/337-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Interdiction",
+        "number": "0337",
+        "type": "Objective"
+    },
+    {
         "faction": "Steelheart’s Champions",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/034_ENG-Immovable-Object.png",
         "location": "Core Set",
         "name": "Immovable Object",
         "number": "034",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/340-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Keep Them Guessing",
+        "number": "0340",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/342-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Loner",
+        "number": "0342",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/346-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Magical Void",
+        "number": "0346",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/347-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Martyred",
+        "number": "0347",
         "type": "Objective"
     },
     {
@@ -832,11 +1944,91 @@
         "type": "Objective"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/350-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Master of Terrain",
+        "number": "0350",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/351-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Neck and Neck",
+        "number": "0351",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/352-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "No Heroes",
+        "number": "0352",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/353-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "No Openings",
+        "number": "0353",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/354-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Nowhere to Go",
+        "number": "0354",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/355-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "On a Roll",
+        "number": "0355",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/357-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Opening Gambit",
+        "number": "0357",
+        "type": "Objective"
+    },
+    {
         "faction": "Steelheart’s Champions",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/036_ENG-Seize-Ground.png",
         "location": "Core Set",
         "name": "Seize Ground",
         "number": "036",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/364-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Quick on Your Feet",
+        "number": "0364",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/367-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Singled Out",
+        "number": "0367",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/368-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Solid Gains",
+        "number": "0368",
         "type": "Objective"
     },
     {
@@ -849,10 +2041,58 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/370-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Sorcerous Retort",
+        "number": "0370",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/371-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Sorcerous Scouring",
+        "number": "0371",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/373-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Strong Start",
+        "number": "0373",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/374-NV_ENG.png",
         "location": "Nightvault Core Set",
         "name": "Supremacy",
         "number": "0374",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/375-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Swift Beheading",
+        "number": "0375",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/376-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Tactical Supremacy 1-4",
+        "number": "0376",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/378-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Tempting Target",
+        "number": "0378",
         "type": "Objective"
     },
     {
@@ -864,11 +2104,99 @@
         "type": "Objective"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/381-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Total Dominance",
+        "number": "0381",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/382-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Trash to Treasure",
+        "number": "0382",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/385-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "What Armour?",
+        "number": "0385",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/386-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Witch-slayer",
+        "number": "0386",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/387-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "With Our Bare Hands",
+        "number": "0387",
+        "type": "Objective"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/388-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Abasoth’s Unmaking",
+        "number": "0388",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/389-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Abasoth’s Withering",
+        "number": "0389",
+        "type": "Gambit Spell"
+    },
+    {
         "faction": "Steelheart’s Champions",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/039_ENG-Heroic-Guard.png",
         "location": "Core Set",
         "name": "Heroic Guard",
         "number": "039",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/391-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Aggressive Defence",
+        "number": "0391",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/394-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Arcane Shield",
+        "number": "0394",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/395-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Arcane Smothering",
+        "number": "0395",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/397-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Baffling Illusion",
+        "number": "0397",
         "type": "Ploy"
     },
     {
@@ -889,10 +2217,50 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/400-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Centre of Attention",
+        "number": "0400",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/402-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Confusing Reflection",
+        "number": "0402",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/403-NV_ENG.png",
         "location": "Nightvault Core Set",
         "name": "Confusion",
         "number": "0403",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/404-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Countercharge",
+        "number": "0404",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/405-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Damning Pact",
+        "number": "0405",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/406-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Dancing with Death",
+        "number": "0406",
         "type": "Ploy"
     },
     {
@@ -913,6 +2281,30 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/410-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Emboldened",
+        "number": "0410",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/412-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Encroaching Shadow",
+        "number": "0412",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Zarbag's Gitz",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/417-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Ghoulish Pact",
+        "number": "0417",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/419-NV_ENG.png",
         "location": "Nightvault Core Set",
         "name": "Grinding Earth",
@@ -928,11 +2320,115 @@
         "type": "Ploy"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/420-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Haymaker",
+        "number": "0420",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/421-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Healing Pulse",
+        "number": "0421",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/422-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Imbue with Life",
+        "number": "0422",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/424-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Infinite Riches",
+        "number": "0424",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/425-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Instinctive Denial",
+        "number": "0425",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/426-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Irresistible Prize",
+        "number": "0426",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/427-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Lethal Ward",
+        "number": "0427",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/428-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Levitation",
+        "number": "0428",
+        "type": "Gambit Spell"
+    },
+    {
         "faction": "Steelheart’s Champions",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/043_ENG-Stormforged-Resistance.png",
         "location": "Core Set",
         "name": "Stormforged Resistance",
         "number": "043",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/432-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Mirror Move",
+        "number": "0432",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/434-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "One Step Ahead",
+        "number": "0434",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/436-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Pit Trap",
+        "number": "0436",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/437-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Power Surge",
+        "number": "0437",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/438-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Quick Exchange",
+        "number": "0438",
         "type": "Ploy"
     },
     {
@@ -945,11 +2441,43 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/441-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Regal Vision",
+        "number": "0441",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/442-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Rend the Earth",
+        "number": "0442",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/443-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Revoke",
+        "number": "0443",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/446-NV_ENG.png",
         "location": "Nightvault Core Set",
         "name": "Sidestep",
         "number": "0446",
         "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/448-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Sorcerous Insight",
+        "number": "0448",
+        "type": "Gambit Spell"
     },
     {
         "faction": "Steelheart’s Champions",
@@ -960,11 +2488,75 @@
         "type": "Ploy"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/450-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Soul Drain",
+        "number": "0450",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/452-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Sphere of Azyr",
+        "number": "0452",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/456-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Sphere of Hysh",
+        "number": "0456",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/457-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Sphere of Shyish",
+        "number": "0457",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/458-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Sphere of Ulgu",
+        "number": "0458",
+        "type": "Gambit Spell"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/459-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Spiked Surface",
+        "number": "0459",
+        "type": "Ploy"
+    },
+    {
         "faction": "Steelheart’s Champions",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/046_ENG-Undaunted.png",
         "location": "Core Set",
         "name": "Undaunted",
         "number": "046",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/463-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Sudden Paranoia",
+        "number": "0463",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/468-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Unchecked Energy",
+        "number": "0468",
         "type": "Ploy"
     },
     {
@@ -977,11 +2569,35 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/470-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Vertigo",
+        "number": "0470",
+        "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/471-NV_ENG.png",
         "location": "Nightvault Core Set",
         "name": "Vital Surge",
         "number": "0471",
         "type": "Gambit Spell"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/473-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Arcane Familiar",
+        "number": "0473",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/478-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Binding Shard",
+        "number": "0478",
+        "type": "Upgrade"
     },
     {
         "faction": "Steelheart’s Champions",
@@ -990,6 +2606,46 @@
         "name": "Valiant Attack",
         "number": "048",
         "type": "Ploy"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/483-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Butcher’s Eye",
+        "number": "0483",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/484-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Chained Spite",
+        "number": "0484",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/486-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Champion’s Fortitude",
+        "number": "0486",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/487-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Circlet of Companionship",
+        "number": "0487",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/488-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Cloak of Shadows",
+        "number": "0488",
+        "type": "Upgrade"
     },
     {
         "faction": "Steelheart’s Champions",
@@ -1001,10 +2657,34 @@
     },
     {
         "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/490-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Dirty Fighting",
+        "number": "0490",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/495-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Enchanted Greaves",
+        "number": "0495",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/09/497-NV_ENG.png",
         "location": "Nightvault Core Set",
         "name": "Escape Artist",
         "number": "0497",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/499-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Faneway Crystal",
+        "number": "0499",
         "type": "Upgrade"
     },
     {
@@ -1021,6 +2701,30 @@
         "location": "Core Set",
         "name": "Block",
         "number": "050",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/501-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Fighter’s Ferocity",
+        "number": "0501",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/502-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Gallant’s Courage",
+        "number": "0502",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/503-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Gloryseeker",
+        "number": "0503",
         "type": "Upgrade"
     },
     {
@@ -1048,11 +2752,27 @@
         "type": "Upgrade"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/508-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Horrifying Armour",
+        "number": "0508",
+        "type": "Upgrade"
+    },
+    {
         "faction": "Steelheart’s Champions",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/051_ENG-Brave-Strike.png",
         "location": "Core Set",
         "name": "Brave Strike",
         "number": "051",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/511-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Low Cunning",
+        "number": "0511",
         "type": "Upgrade"
     },
     {
@@ -1064,11 +2784,99 @@
         "type": "Upgrade"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/513-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Mirror of Spite",
+        "number": "0513",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/514-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Mutating Maul",
+        "number": "0514",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/516-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Nullstone Axe",
+        "number": "0516",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/518-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Nullstone Darts",
+        "number": "0518",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/519-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Nullstone Hammer",
+        "number": "0519",
+        "type": "Upgrade"
+    },
+    {
         "faction": "Steelheart’s Champions",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/052_ENG-Fatal-Riposte.png",
         "location": "Core Set",
         "name": "Fatal Riposte",
         "number": "052",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/522-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Nullstone Sword",
+        "number": "0522",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/524-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Parrying Blade",
+        "number": "0524",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/526-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Potion of Clarity",
+        "number": "0526",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/527-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Potion of Constitution",
+        "number": "0527",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/528-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Potion of Grace",
+        "number": "0528",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/529-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Potion of Rage",
+        "number": "0529",
         "type": "Upgrade"
     },
     {
@@ -1080,6 +2888,54 @@
         "type": "Upgrade"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/531-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Ready for the Fight",
+        "number": "0531",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/534-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Ritual Dagger",
+        "number": "0534",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/536-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Seeking Blade",
+        "number": "0536",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/537-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Seeking Stones",
+        "number": "0537",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/538-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Shifting Map",
+        "number": "0538",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/539-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Slumbering Key",
+        "number": "0539",
+        "type": "Upgrade"
+    },
+    {
         "faction": "Steelheart’s Champions",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/054_ENG-Heroic-Stride.png",
         "location": "Core Set",
@@ -1088,11 +2944,75 @@
         "type": "Upgrade"
     },
     {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/541-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Spiteful Charm",
+        "number": "0541",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/543-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Sudden Growth",
+        "number": "0543",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/544-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Swordbreaker",
+        "number": "0544",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/545-NV_ENG.png",
+        "location": "Eyes of the Nine Expansion",
+        "name": "Tome of Diseases",
+        "number": "0545",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/546-NV_ENG.png",
+        "location": "Steelheart's Champions Expansion",
+        "name": "Tome of Glories",
+        "number": "0546",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/548-NV_ENG.png",
+        "location": "Zarbag's Gitz Expansion",
+        "name": "Tome of Incantations",
+        "number": "0548",
+        "type": "Upgrade"
+    },
+    {
         "faction": "Steelheart’s Champions",
         "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/055_ENG-Lightning-Blade.png",
         "location": "Core Set",
         "name": "Lightning Blade",
         "number": "055",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/552-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Tome of Warfare",
+        "number": "0552",
+        "type": "Upgrade"
+    },
+    {
+        "faction": "Universal",
+        "image": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/10/553-NV_ENG.png",
+        "location": "Garrek's Reavers Expansion",
+        "name": "Touch of Death",
+        "number": "0553",
         "type": "Upgrade"
     },
     {
